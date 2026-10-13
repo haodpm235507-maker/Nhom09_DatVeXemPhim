@@ -495,7 +495,3 @@ Script sẽ:
 ---
 
 &copy; Bản quyền thuộc về **Nhóm 9 - Kiểm thử và đảm bảo chất lượng phần mềm**.
-
-**Chúc các bạn làm đồ án kiểm thử thuận lợi!**
-
-Nếu cần bổ sung Test Scenario, Test Case, Bug Report mẫu hoặc kịch bản Automation, hãy yêu cầu tiếp.
